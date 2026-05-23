@@ -1,4 +1,4 @@
-## RetainPulse: High-Performance Churn Classification
+## Predictive Churn Modeling Pipeline
 ### 📝 Project Overview
 RetainPulse is a predictive engine designed to identify high-risk customer churn within the Telco sector. Moving beyond simple heuristics, this project implements a Random Forest architecture optimized for high-precision classification on the IBM Telco Dataset.
 
